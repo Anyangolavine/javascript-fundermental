@@ -4,7 +4,7 @@ console.log('1 counted $ {45+35}sheep');
 let lastName='masheti';
 // let fullName=firstName + +' 'lastName;
 console.log(fullName)
-let fullName =' lavine + + masheti';
+let fullName =' lavine + " " + masheti';
 let firstName =' ${firstName} ${lastName}';
 let totalone=500;
 let totaltwo=400;
