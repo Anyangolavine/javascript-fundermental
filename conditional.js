@@ -54,3 +54,11 @@ if (password.indexof('')=== -1){
         console.log("INCORRECT PASSWORD")
     }
     }
+    let age=20;
+     console.log (age===10 ? 'correct age' :'wrong age');
+     //switch statements
+     let days=7;
+     switch|(days){
+        case 1:'mon'
+        brrak
+     }   
